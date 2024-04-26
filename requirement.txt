@@ -1,0 +1,12 @@
+streamlit
+Pillow
+openai
+requests
+python-math
+Python-IO
+torch
+pickle-mixin
+argparse
+torchvision
+regex
+datetime
